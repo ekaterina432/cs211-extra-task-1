@@ -1,9 +1,3 @@
-cs211-extra-task-1
-==================
-
-Исходный код для первого дополнительного задания на курсе языков 
-программирования (Мехмат ЮФУ, ФИИТ, 2014).
-
 double seconds_difference(double time_1, double time_2)
 {
     // your implementation goes here...
